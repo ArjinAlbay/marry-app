@@ -1,6 +1,7 @@
 import '@mantine/core/styles.css';
 import { ColorSchemeScript, MantineProvider } from '@mantine/core';
 import BottomNavigation from '../components/BottomNavigation';
+import { theme } from '../theme';
 
 export const metadata = {
   title: 'MarryApp - Evlilik Sürecinde Yanınızda',
@@ -15,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="tr">
       <head>
-        <ColorSchemeScript defaultColorScheme="light" />
+        <ColorSchemeScript />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
       </head>
       <body style={{ 
@@ -24,7 +25,7 @@ export default function RootLayout({
         background: '#f8f9fa',
         fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
       }}>
-        <MantineProvider defaultColorScheme="light">
+        <MantineProvider theme={theme}>
           <div style={{ 
             minHeight: '100vh', 
             paddingBottom: '85px',

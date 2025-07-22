@@ -84,9 +84,9 @@ export default function HomePage() {
             value={68} 
             size="md" 
             radius="xl"
-            style={{ 
-              '& .mantine-Progress-bar': { 
-                background: 'linear-gradient(90deg, #ffd700, #ff6b9d)' 
+            styles={{
+              section: {
+                background: 'linear-gradient(90deg, #ffd700, #ff6b9d)'
               }
             }}
           />

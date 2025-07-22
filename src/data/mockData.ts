@@ -48,11 +48,11 @@ export const businesses: Business[] = [
     phone: '0412 123 45 67',
     rating: 4.8,
     price: '₺200-400',
-    image: 'https://via.placeholder.com/400x300?text=Kuaför+Salonu',
+    image: 'https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Salon+İç+Mekan',
-      'https://via.placeholder.com/400x300?text=Saç+Kesim',
-      'https://via.placeholder.com/400x300?text=Makyaj+Bölümü'
+      'https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400&h=300&fit=crop'
     ],
     availableSlots: ['09:00', '11:00', '14:00', '16:00'],
     description: 'Diyarbakır\'ın en köklü kuaför salonlarından biri. Profesyonel ekibimizle düğün hazırlığınızda yanınızdayız.',
@@ -79,11 +79,11 @@ export const businesses: Business[] = [
     phone: '0412 234 56 78',
     rating: 4.6,
     price: '₺80-150',
-    image: 'https://via.placeholder.com/400x300?text=Berber+Salonu',
+    image: 'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Modern+Berber',
-      'https://via.placeholder.com/400x300?text=Saç+Kesim+2',
-      'https://via.placeholder.com/400x300?text=Sakal+Traş'
+      'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1622296089863-eb5fc56d05c4?w=400&h=300&fit=crop'
     ],
     availableSlots: ['10:00', '12:00', '15:00', '17:00'],
     description: 'Modern tekniklerle klasik berberligi buluşturan salon. Damat traşı konusunda uzmanız.',
@@ -99,11 +99,11 @@ export const businesses: Business[] = [
     phone: '0412 345 67 89',
     rating: 4.9,
     price: '₺2000-8000',
-    image: 'https://via.placeholder.com/400x300?text=Gelinlik+Mağazası',
+    image: 'https://images.unsplash.com/photo-1594736797933-d0299db2d3d4?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Gelinlik+Koleksiyonu',
-      'https://via.placeholder.com/400x300?text=Prova+Odası',
-      'https://via.placeholder.com/400x300?text=Aksesuar+Bölümü'
+      'https://images.unsplash.com/photo-1594736797933-d0299db2d3d4?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=400&h=300&fit=crop'
     ],
     availableSlots: ['10:00', '13:00', '15:30'],
     description: '20 yıllık tecrübemizle Diyarbakır\'ın en büyük gelinlik koleksiyonu. Özel dikim hizmeti.',
@@ -130,12 +130,12 @@ export const businesses: Business[] = [
     phone: '0412 456 78 90',
     rating: 4.7,
     price: '₺15000-25000',
-    image: 'https://via.placeholder.com/400x300?text=Düğün+Salonu',
+    image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Ana+Salon',
-      'https://via.placeholder.com/400x300?text=Sahne+Alanı',
-      'https://via.placeholder.com/400x300?text=Gelin+Odası',
-      'https://via.placeholder.com/400x300?text=Yemek+Servisi'
+      'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop'
     ],
     availableSlots: ['19:00', '20:00'],
     description: 'Diyarbakır\'ın en lüks düğün salonu. 500 kişilik kapasiteyle unutulmaz bir düğün için.',
@@ -163,11 +163,11 @@ export const businesses: Business[] = [
     phone: '0412 567 89 01',
     rating: 4.5,
     price: '₺3000-6000',
-    image: 'https://via.placeholder.com/400x300?text=Kına+Organizasyon',
+    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Kına+Gecesi',
-      'https://via.placeholder.com/400x300?text=Geleneksel+Süsleme',
-      'https://via.placeholder.com/400x300?text=Kına+Tepsisi'
+      'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1583334646107-52b1e0de2a65?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1606800052052-a08af7148866?w=400&h=300&fit=crop'
     ],
     availableSlots: ['14:00', '16:00', '19:00'],
     description: 'Geleneksel kına gecesi organizasyonu. Müzik, yemek ve süsleme dahil paketler.',
@@ -184,11 +184,11 @@ export const businesses: Business[] = [
     phone: '0412 678 90 12',
     rating: 4.4,
     price: '₺2500-5000',
-    image: 'https://via.placeholder.com/400x300?text=Nişan+Salonu',
+    image: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=400&h=300&fit=crop',
     gallery: [
-      'https://via.placeholder.com/400x300?text=Nişan+Masası',
-      'https://via.placeholder.com/400x300?text=Çiçek+Süsleme',
-      'https://via.placeholder.com/400x300?text=Pasta+Köşesi'
+      'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=400&h=300&fit=crop',
+      'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400&h=300&fit=crop'
     ],
     availableSlots: ['15:00', '17:00', '19:00'],
     description: 'Romantik nişan törenleri için özel tasarım. Çiçek süsleme ve pasta servisi dahil.',
@@ -219,7 +219,7 @@ export const products: Product[] = [
     originalPrice: 15999,
     discount: 19,
     store: 'Teknosa Diyarbakır',
-    image: 'https://via.placeholder.com/300x200?text=Bulaşık+Makinesi',
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop',
     location: 'Forum Diyarbakır AVM'
   },
   {
@@ -230,7 +230,7 @@ export const products: Product[] = [
     originalPrice: 12000,
     discount: 29,
     store: 'Doğtaş Diyarbakır',
-    image: 'https://via.placeholder.com/300x200?text=Yatak+Odası',
+    image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=200&fit=crop',
     location: 'Bağlar Caddesi'
   },
   {
@@ -241,7 +241,7 @@ export const products: Product[] = [
     originalPrice: 19900,
     discount: 20,
     store: 'İstikbal Diyarbakır',
-    image: 'https://via.placeholder.com/300x200?text=Mutfak+Takımı',
+    image: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop',
     location: 'Yenişehir Mahallesi'
   },
   {
@@ -252,7 +252,7 @@ export const products: Product[] = [
     originalPrice: 3500,
     discount: 29,
     store: 'Özdilek Diyarbakır',
-    image: 'https://via.placeholder.com/300x200?text=Çeyiz+Seti',
+    image: 'https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=300&h=200&fit=crop',
     location: 'Çakmak Caddesi'
   }
 ];
